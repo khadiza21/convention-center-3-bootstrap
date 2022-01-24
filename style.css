@@ -1,9 +1,14 @@
 .link-text {
     text-decoration: none;
 }
+.pack-width{
+    width: 90%;
+    margin-left: 5%;
+}
 
 .list-style{
     list-style: none;
+    
 }
 .position-set{
   margin-top: -60px;
