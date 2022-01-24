@@ -1,47 +1,48 @@
-.link-text {
-    text-decoration: none;
+body {
+  font-family: "Poppins", sans-serif;
+  
 }
-.pack-width{
-    width: 90%;
-    margin-left: 5%;
+.link-text {
+  text-decoration: none;
+}
+.pack-width {
+  width: 90%;
+  margin-left: 5%;
 }
 
-.list-style{
-    list-style: none;
-    
+.list-style {
+  list-style: none;
 }
-.position-set{
+.position-set {
   margin-top: -60px;
 }
-.border-set{
-    border-left: blue 8px solid;
-    
+.border-set {
+  border-left: blue 8px solid;
 }
-.set-toast-position{
-position:absolute;
-top: -300px;
-right: 16px;
-
+.set-toast-position {
+  position: absolute;
+  top: -300px;
+  right: 16px;
 }
 
-.text-gray{
-    color:gray
+.text-gray {
+  color: gray;
 }
-.text-nevy{
-    color:rgb(18, 19, 88)
+.text-nevy {
+  color: rgb(18, 19, 88);
 }
-.icon-color  i{
-    border: 1 px solid white;
-    border-radius:50% ;
-    color:blue;
-    background-color: rgba(22, 39, 114, 0.137);
+.icon-color i {
+  border: 1 px solid white;
+  border-radius: 50%;
+  color: blue;
+  background-color: rgba(22, 39, 114, 0.137);
 }
-.icon-colorr i{
-    border: 1 px solid white;
-    border-radius:50% ;
-    color:blue;
-    background-color: rgba(255, 255, 255, 0.966);
+.icon-colorr i {
+  border: 1 px solid white;
+  border-radius: 50%;
+  color: blue;
+  background-color: rgba(255, 255, 255, 0.966);
 }
-.bt-color{
-    background-color: gray;
+.bt-color {
+  background-color: gray;
 }
