@@ -1,3 +1,10 @@
 .link-text {
     text-decoration: none;
 }
+
+.list-style{
+    list-style: none;
+}
+.position-set{
+  margin-top: -60px;
+}
