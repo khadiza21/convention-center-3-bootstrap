@@ -8,3 +8,13 @@
 .position-set{
   margin-top: -60px;
 }
+.border-set{
+    border-left: blue 8px solid;
+    
+}
+.set-toast-position{
+position:absolute;
+top: -300px;
+right: 16px;
+
+}
